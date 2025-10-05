@@ -12,7 +12,7 @@ url: "" # GitHub username
 # Social media links in footer
 linkedin: "benjagranados"
 github: "benjagm"
-bluesky: "#"
+bluesky: "benjagm.bsky.social"
 
 # Markdown
 highlighter: rouge
