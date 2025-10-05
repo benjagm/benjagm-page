@@ -6,7 +6,7 @@ My work sits at the intersection of **technology, people, and strategy** and my 
 
 ## Current Work
 
-I am currently working at <b>Banco Santander</b> in the Data & AI Division leveraging the power of Communities to accelerate the AI Strategy.
+I am currently working at **Banco Santander** in the Data & AI Division leveraging the power of Communities to accelerate the Bank's AI Strategy.
 
 **These quotes reflect my values:**
 
