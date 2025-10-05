@@ -2,10 +2,6 @@
 layout: default
 ---
 
-Welcome to my personal website and portfolio! I'm a passionate developer currently working at **Banco Santander**.
-
-## About Me
-
 I'm focused on building innovative financial solutions and developing scalable software systems. My work involves creating robust applications that help improve banking services and user experiences.
 
 My interests include:
