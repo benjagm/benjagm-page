@@ -5,7 +5,7 @@ author: Benjamin Granados
 email: benjamin.granadosm@gmail.com
 
 baseurl: "/benjagm-page" # GitHub repository name
-url: "https://benjagm.github.io" # GitHub username
+url: "" # GitHub username
 
 # Pagination (removed blog functionality)
 
