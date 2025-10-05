@@ -4,7 +4,7 @@ description: API & Community Leader | Chief Digital Officer | MBA
 author: Benjamin Granados
 email: benjamin.granadosm@gmail.com
 
-baseurl: "/benjagm-page" # GitHub repository name
+baseurl: "" # GitHub repository name
 url: "" # GitHub username
 
 # Pagination (removed blog functionality)
