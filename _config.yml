@@ -7,10 +7,7 @@ email: benjamin.granadosm@gmail.com
 baseurl: "/benjagm-page" # GitHub repository name
 url: "https://benjagm.github.io" # GitHub username
 
-# Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+# Pagination (removed blog functionality)
 
 # Social media links in footer
 linkedin: "benjagranados"
@@ -41,11 +38,7 @@ compress_html:
   profile: false
   startings: []
 
-# Collections
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name/
+# Collections (removed projects collection)
 
 sass:
   sass_dir: /assets/css/_sass
@@ -62,7 +55,6 @@ exclude:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-paginate
   - jekyll-email-protect
   - jekyll-target-blank
   - jekyll-feed
