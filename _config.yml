@@ -1,23 +1,69 @@
 # Site settings
 title: Benjamin Granados
-description: Personal website
+description: Personal website and portfolio | Software Developer | Banco Santander
 author: Benjamin Granados
 email: benjamin.granadosm@gmail.com
 
-# Build settings
-markdown: kramdown
+baseurl: "/benjagm-page" # GitHub repository name
+url: "https://benjagm.github.io" # GitHub username
+
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
+
+# Social media links in footer
+linkedin: "benjagranados"
+stackoverflow: "#"
+github: "benjagm"
+researchgate: "#"
+orcid: "#"
+quora: "#"
+instagram: "#"
+facebook: "#"
+bluesky: "#"
+
+# Markdown
 highlighter: rouge
-theme: minima
+markdown: kramdown
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+# Tracker (add your analytics ID if needed)
+analytics:
 
-# Exclude from processing
+# optimization -> compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - README.md
   - LICENSE
   - .gitignore
+  - temp-gradfolio
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll-target-blank
+  - jekyll-feed
+  - jekyll-sitemap
