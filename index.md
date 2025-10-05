@@ -9,6 +9,7 @@ My work sits at the intersection of **technology, people, and strategy** and my 
 I am currently working at **Banco Santander** in the Data & AI Division leveraging the power of Communities to accelerate the AI Strategy.
 
 **These quotes reflect my values:**
-> "Inspiration exists, but it has to find you working" Pablo Picasso
-> "If you want to go fast go alone. If you want to go far go together" African Proverb
-> "It always seems impossible until it's done" Nelson Mandela
+
+> *"Inspiration exists, but it has to find you working"* **Pablo Picasso**.
+> *"If you want to go fast go alone. If you want to go far go together"* **African Proverb**.
+> *"It always seems impossible until it's done"* **Nelson Mandela**.
